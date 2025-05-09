@@ -15,16 +15,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
 
-### 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MARC-BARBIERI&show_icons=true&theme=radical" alt="stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARC-BARBIERI&layout=compact&theme=radical" alt="langues GitHub" />
-</p>
-
----
 
 
 
